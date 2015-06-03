@@ -17,9 +17,9 @@
 *.tlh
 *.bak
 *.[Cc]ache
-#*.ilk
+*.ilk
 *.log
-#*.lib
+*.lib
 *.sbr
 *.sdf
 *.opensdf
@@ -29,6 +29,8 @@ obj/
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
+lib
+lib64
 Ankh.NoLoad
 
 #MonoDevelop
